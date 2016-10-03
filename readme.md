@@ -1,6 +1,6 @@
-| Giuliano De Block | 88307 | proDEV | 2016 - 2017 |
 
-|:--------------------:|:------------------------------|
+|                      |                               |
+|:---------------------|:------------------------------|
 | Student              | Giuliano De Block             |
 | Opleidingsonderdeel  | New Media Design & Development|
 | Afstudeerrichting    | Multimediaproductie (MMP)     |  
