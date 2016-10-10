@@ -70,9 +70,6 @@ Wikihow, 9gag
 Talenkennis
 ===========
 
- Moedertaal
- Basiskennis
- Zeer goed
 
 |                      |                                |
 |:---------------------|:-------------------------------|
